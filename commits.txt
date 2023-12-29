@@ -1,0 +1,81 @@
+commit 13f999a753102df16360deed8c2d91e5f25b47e7
+Merge: 1039efa 16fcbba
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 22:48:23 2023 -0600
+
+    resolviendo conflicto merge y añadiendo un parrafo sin agregar un commit nuevo
+
+commit 1039efaa845493bf32f6d9a2049585ecc7743ad1
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 22:41:32 2023 -0600
+
+    agregando al index.htm el css y js
+
+commit 16fcbbafc55ad19db267426efd455476f25be2d0
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 22:34:38 2023 -0600
+
+    realizando cambios en index.html
+
+commit db74e77eedbb8ed976f2e78ff5eb0bbcfa115cad
+Merge: cf8d0ba b4cbf52
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 21:55:18 2023 -0600
+
+    Merge branch 'javascrypt'
+
+commit b4cbf523b8fd2325f00d4e090b41236d9a608602
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 21:38:49 2023 -0600
+
+    agregando index.js
+
+commit cf8d0ba3f6a2cd91a8f7284800489109e5983c17
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 21:25:06 2023 -0600
+
+    agregando style.css
+
+commit 56d1e37a5878e20e63984d5dbda4cf8227420ea7
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 21:10:16 2023 -0600
+
+    creando el index.html
+
+commit 3053c375dfdf0f82c53d28f02d158f1087d9cf34
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Wed Dec 27 20:28:49 2023 -0600
+
+    ingorando los ejecutables
+
+commit 5938bf89ca2f8ec23653de92eced7e56878d6da6
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Tue Dec 26 21:37:03 2023 -0600
+
+    editando y añadiendo mas contenido al readme
+
+commit e00071aec184fd68471bfc1d8b027dd72e0497e7
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Tue Dec 26 20:37:05 2023 -0600
+
+    añadiendo contenido README
+
+commit 6af583d5473db400ddcca030abc4a0c8b5aabb02
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Tue Dec 26 20:35:30 2023 -0600
+
+    modificando contenido README
+
+commit ea06fa8c564c7519700b40ce4ffc3c73a4e795ec
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Tue Dec 26 20:32:41 2023 -0600
+
+    agregando contenido al README
+
+commit 526626cf27fb828dcfc945ccf1aedbe7cd6831bc
+Author: Jesus Meza <jesus_meza108807@outlook.es>
+Date:   Tue Dec 26 20:23:06 2023 -0600
+
+    Primer commit
+
+con el comando: git log > commits.txt
